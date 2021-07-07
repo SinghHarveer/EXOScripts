@@ -26,15 +26,6 @@ Choose The Task: 1
 DisplayName                   Alias                         Primary SMTP address          Distriubtion Group
 -----------                   -----                         --------------------          ------------------
 Atlast1                       Atlast1                       Atlast1@azure365pro.com       Test1
-Atlast2                       Atlast2                       Atlast2@azure365pro.com       Test1
-Blink                         Blink                         Blink@azure365pro.com         Test1
-blink1                        blink1                        blink1@azure365pro.com        Test1
-User2                         User2                         User2@azure365pro.com         Test11
-User3                         User3                         User3@azure365pro.com         Test11
-User4                         User4                         User4@azure365pro.com         Test11
-WithClient                    WithClient                    WithClient@azure365pro.com    Test11
-Blink                         Blink                         Blink@azure365pro.com       Test11
-blink1                        blink1                        blink1@azure365pro.com      Test11
 
 Example 2
 
@@ -60,17 +51,7 @@ V1.0, 11/10/2012 - Initial version
 Change Log
 V1.1, 02/07/2014 - Added "Enter the Distribution Group name with Wild Card"
 
-Change Log
-V1.2, 19/07/2014 - Added "Recipient OU,Distribution Group Primary SMTP address,Distribution Group Managers,Distribution Group OU"
-V1.2.1, 19/07/2014 - Added "Option- Enter the Distribution Group name with Wild Card (Display)"
-V1.2.2, 19/07/2014 - Added "Fixed "Hashtable-to-Object conversion is not supported in restricted language mode or a Data section"
-V1.3,05/08/2014 - Hashtable-to-Object conversion is not supported - Fixed 
-V1.4,30/08/2015 - 
-Removed For loops - As its not listing distribution groups which has one member.
-Added Value for Empty groups. It will list empty groups now as well.
-V1.5,09/09/2015 - Progress Bars while exporting to CSV
-V1.6,08/06/2019 - Added Encoding UTF-8 - Add Column Not allowed from Internet
-V1.7,14/08/2019 - Added Column Distribution Group Managers Primary SMTP address
+
 
 #>
 
